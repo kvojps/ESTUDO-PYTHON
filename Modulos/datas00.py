@@ -2,7 +2,7 @@ from datetime import datetime, timedelta
 
 """
 strptime(str, fmt) -> Formatar uma string em data.
-.strftime(fmt) -> Alterar o formato de data de acordo com alguma região, por exemplo.
+.strftime(fmt) -> Alterar o formato de uma data.
 timestamp() -> Você pode transformar uma data em timestamp.
 fromtimestamp() -> transformar um timestamp em data
 timedelta() -> Trabalhar com intervalos de tempo
