@@ -1,3 +1,3 @@
 # Módulos
 
-* Arquivos voltados para analisar alguns módulos presentes no python.
+* Arquivos voltados para analisar alguns módulos presentes no python. Estudos baseados no curso de Luiz Otávio, Python do básico ao avançado.
