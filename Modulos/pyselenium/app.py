@@ -71,9 +71,6 @@ if __name__ == '__main__':
 
     chrome.clica_sign_in()
     chrome.faz_login()
-
-    chrome.clica_perfil()
-    chrome.verifica_usuario('otaviomirandabr')
-
+    
     sleep(5)
     chrome.sair()
