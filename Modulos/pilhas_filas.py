@@ -1,7 +1,7 @@
 """
-Pilha(Stack) - LIFO - last in, first out.
+Pilha(Stack) - LIFO - last in, first out.(último a entrar, primeiro a sair)
     Exemplo: Pilha de livros que são adicionados um sobre o outro.
-Fila(Queue) - FIFO - first in, first out.
+Fila(Queue) - FIFO - first in, first out.(primeiro a entrar, primeiro a sair)
     Exemplo: Uma fila de banco(ou qualquer fila da vida real)
 Filas podem ter efeitos colaterais em desempenho, porque a cada item alterado, todos
 os índices serão modificados.
