@@ -1,6 +1,7 @@
 import sqlite3
 
 # Importante já ter a tabela criada no sqlite.
+# Faça download do DB browser (SQLite)
 
 class AgendaDB:
     def __init__(self, arquivo):
