@@ -92,3 +92,4 @@ if __name__ == '__main__':
     
     controle_remoto.button_execute('primeiro botão')
     controle_remoto.button_execute('segundo botão')
+    controle_remoto.button_undo('segundo botão')
